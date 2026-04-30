@@ -297,7 +297,7 @@ ai-sales-generator/
 | Field        | Value          |
 | ------------ | -------------- |
 | **Email**    | demo@gmail.com |
-| **Password** | demo123        |
+| **Password** | demo12345      |
 
 > 💡 App mungkin perlu 5-10 detik untuk wake up pertama kali dibuka (normal untuk free tier hibernation).
 
