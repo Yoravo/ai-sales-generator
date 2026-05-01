@@ -417,6 +417,9 @@ Terlalu banyak request dalam 1 menit. Tunggu 60 detik dan coba lagi.
 **App lambat pertama kali dibuka**
 Normal untuk free tier — app hibernate setelah tidak ada traffic. Wake up otomatis dalam 5-10 detik.
 
+**Generate API Error**
+Silahkan Tunggu selama 1-2 menit dikarenakan free tier di laravel cloud mengalami cold start sehingga jika generate di awal terkadang mengalami gagal mengambil API Google Gemini AI, Apabila sudah berjalan biasanya akan langsung generate tanpa di toggle ulang
+
 ---
 
 ## 👨‍💻 Developer
